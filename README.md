@@ -1,5 +1,5 @@
 # hello-earth
-just ana another repository
+just another repository
  
  
 Hey this is computer man 
